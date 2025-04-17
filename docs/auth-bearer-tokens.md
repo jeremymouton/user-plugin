@@ -48,6 +48,7 @@ When [building API endpoints using CMS pages](https://docs.octobercms.com/3.x/cm
 title = "User API Page"
 url = "/api/user/:action"
 
+[authentication]
 [resetPassword]
 [account]
 [session]
